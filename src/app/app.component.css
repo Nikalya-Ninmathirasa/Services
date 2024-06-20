@@ -1,0 +1,10 @@
+.errormessage{
+    /* display: none; */
+    color: red;
+}
+
+.contclass{
+    padding: 20px;
+    min-height: 500px;
+    background-color:rgb(192, 190, 190);
+}
